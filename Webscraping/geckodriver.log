@@ -1,0 +1,6 @@
+1532528734360	geckodriver	INFO	geckodriver 0.21.0
+1532528734364	geckodriver	INFO	Listening on 127.0.0.1:46420
+1532528735396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rtVrSEhKkakq"
+*** You are running in headless mode.
+1532528737326	Marionette	INFO	Listening on port 45929
+1532528737422	Marionette	WARN	TLS certificate errors will be ignored for this session
